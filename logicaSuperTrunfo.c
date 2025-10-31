@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-// Programa Super Trunfo – Versão Avançada
-// Desenvolvido com base nos desafios de comparação de cartas
-
 int main() {
     // ======= Cadastro das Cartas =======
     // Carta 1
